@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT loko_django_dev_739.wsgi:application
